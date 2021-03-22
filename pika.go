@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Printf("ohhh myyy god")
+	fmt.Printf("ohhh  god")
 	fmt.Printf("Hello World")
-	fmt.Printf("Fisrt Change Local")
-	fmt.Printf("Happy Mondaygit")
+	fmt.Printf("Fit Change Local")
+	fmt.Printf("Happy Monday")
 }
