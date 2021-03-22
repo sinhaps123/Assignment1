@@ -10,9 +10,7 @@ func main() {
 	fmt.Printf("Happy Monday")
 
 	fmt.Printf("sunday")
-	fmt.Printf("ohhh myyy god")
-
-	fmt.Printf("Hello World")
+       fmt.Printf("Hello World")
 	fmt.Printf("Fisrt Change Local")
 	fmt.Printf("Happy Mondaygit")
 	fmt.Printf("sun")
